@@ -1,0 +1,17 @@
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\ExperisMovieProject.exe
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\ExperisMovieProject.deps.json
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\ExperisMovieProject.runtimeconfig.json
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\ExperisMovieProject.dll
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\ExperisMovieProject.pdb
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.csproj.AssemblyReference.cache
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.AssemblyInfoInputs.cache
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.AssemblyInfo.cs
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.csproj.CoreCompileInputs.cache
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.csproj.CopyComplete
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.dll
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\refint\ExperisMovieProject.dll
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.pdb
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ExperisMovieProject.genruntimeconfig.cache
+C:\Users\lknud\source\repos\ExperisMovieProject\ExperisMovieProject\obj\Debug\net6.0\ref\ExperisMovieProject.dll

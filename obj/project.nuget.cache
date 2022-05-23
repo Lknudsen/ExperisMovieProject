@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uy1Vft7MmcpGxLXALWxHxPS3FoiZ98/j2wusPvx4gh4E9frvf5LDyUP4yYSORRFKhCz/TaLbwxNnPDAwKwUD3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lknud\\source\\repos\\ExperisMovieProject\\ExperisMovieProject\\ExperisMovieProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lknud\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
